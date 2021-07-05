@@ -1,0 +1,9 @@
+
+spring:
+
+  application:
+    name: shopping-cart #Nome do arquivo que ele deve carregar
+
+  cloud:
+    config:
+      uri: http://localhost:8888
